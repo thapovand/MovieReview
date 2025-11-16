@@ -8,7 +8,7 @@ A modern iOS application built with SwiftUI that integrates with The Movie Datab
 
 - **Movies List Page (Home)**
   - Display popular movies with poster, title, rating, and release year
-  - Category selection: Popular, Now Playing, Top Rated, Upcoming
+  - Category selection: Popular, Favourites, Top Rated, Upcoming
   - Grid layout with smooth scrolling
   - Pull-to-refresh functionality
   - Favorite indicator on movie cards
